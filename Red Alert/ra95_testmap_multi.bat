@@ -1,0 +1,1 @@
+ra95.exe -NOTITLE -ONETIME -NORMAL -M:cmu42ea.ini
